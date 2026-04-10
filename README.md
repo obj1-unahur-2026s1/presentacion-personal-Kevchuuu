@@ -88,7 +88,7 @@
 
 <h4> Redes Sociales </h4>
 <span>
-	<a target="_blank" href="https://www.reddit.comu/freevsi?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 	<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
 	<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
