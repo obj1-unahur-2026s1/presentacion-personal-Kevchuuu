@@ -48,7 +48,7 @@
 
 <!--Habilidades y herramientas-->
 
-## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR5dmM3YmhwOGoxdjZqN3l2N2R1ZzFnMXNwcG8ya21wbjM2dGoydSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width = 50px></picture> Algunas de Mis Habilidades
+## <picture><img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR5dmM3YmhwOGoxdjZqN3l2N2R1ZzFnMXNwcG8ya21wbjM2dGoydSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width = 50px></picture> Dkills
 
 <h4> Languajes </h4>
 <span> 
